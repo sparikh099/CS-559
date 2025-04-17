@@ -1,3 +1,6 @@
 # CS-559
-- final project
-
+Team Members: 
+- Shyam Parikh
+- Ayan Mahmood
+- Lijing Li
+- Ryan Camburn
